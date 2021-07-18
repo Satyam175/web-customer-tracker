@@ -1,0 +1,5 @@
+com.example.web_customer_tracker.Customer=javax.persistence.Entity,javax.persistence.Table
+com.example.web_customer_tracker.CustomerController=org.springframework.stereotype.Component
+com.example.web_customer_tracker.CustomerDAOImpl=org.springframework.stereotype.Component
+com.example.web_customer_tracker.CustomerServiceImpl=org.springframework.stereotype.Component
+com.example.web_customer_tracker.TestDbServlet=javax.servlet.annotation.WebServlet
